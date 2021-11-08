@@ -1,4 +1,4 @@
-# frontend
+# Flutter Todo App With Django Rest Framework
 
 A new Flutter project.
 
